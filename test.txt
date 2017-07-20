@@ -1,1 +1,2 @@
-this is my first git checkin
+this is my first git checking
+this is my second checking
